@@ -1,1 +1,1 @@
-Replace this with the public IP address of your Azure VM (e.g., 20.123.45.67)
+Copy this http://4.157.255.232/
